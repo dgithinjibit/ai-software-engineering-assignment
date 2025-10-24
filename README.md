@@ -34,8 +34,8 @@ This assignment explores three key areas:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-software-engineering-assignment.git
-cd ai-software-engineering-assignment
+git clone
+cd directory
 ```
 
 2. Create a virtual environment:
@@ -140,7 +140,7 @@ Detailed documentation for each task can be found in their respective directorie
 
 ## Hugging Face Space
 
-Interactive demo available at: [Your Hugging Face Space URL]
+Interactive demo available at: [[Hugging Face Space URL](https://huggingface.co/spaces/dgith/week4)]
 
 ## Contributing
 
@@ -152,9 +152,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## Author
 
-[Your Name]
-[Your Student ID]
-[Your Email]
+Daniel Githinji
+dgithinji331@gmail.com
 
 ## Acknowledgments
 
